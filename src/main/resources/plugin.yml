@@ -1,0 +1,5 @@
+   name: SpawnEier-PurpleKush
+   version: 1.0.0
+   main: de.example.spawneggdrops.SpawnEggDrops
+   api-version: '26.3'
+   description: Mobs droppen mit einer kleinen Chance ihr Spawn-Ei.
