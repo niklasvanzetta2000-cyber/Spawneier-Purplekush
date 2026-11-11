@@ -1,0 +1,5 @@
+   # Drop-Chance in Prozent (1.0 = 1 %)
+   chance-percent: 1.0
+
+   # true = nur wenn ein Spieler den Mob toetet, false = bei jedem Tod
+   require-player-kill: true
